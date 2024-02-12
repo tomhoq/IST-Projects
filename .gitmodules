@@ -1,9 +1,6 @@
 [submodule "projBD"]
 	path = projBD
 	url = https://github.com/tomhoq/projBD
-[submodule "rc-project"]
-	path = rc-project
-	url = https://github.com/tomhoq/rc-project
 [submodule "Reaction-time-IPMproject"]
 	path = Reaction-time-IPMproject
 	url = https://github.com/tomhoq/Reaction-time-IPMproject.git
