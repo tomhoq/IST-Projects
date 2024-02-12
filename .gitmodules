@@ -19,3 +19,6 @@
 [submodule "AI-Project"]
 	path = AI-Project
 	url = https://github.com/tomhoq/AI-Project.git
+[submodule "Networks-Project"]
+	path = Networks-Project
+	url = https://github.com/tomhoq/Networks-Project.git
