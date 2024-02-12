@@ -10,3 +10,12 @@
 [submodule "tfs_project"]
 	path = tfs_project
 	url = https://github.com/tomhoq/tfs_project.git
+[submodule "Databases-Project"]
+	path = Databases-Project
+	url = https://github.com/tomhoq/Databases-Project
+[submodule "Tecnico-File-System-pt1-"]
+	path = Tecnico-File-System-pt1-
+	url = https://github.com/tomhoq/Tecnico-File-System-pt1-.git
+[submodule "Tecnico-File-System-pt2-"]
+	path = Tecnico-File-System-pt2-
+	url = https://github.com/tomhoq/Tecnico-File-System-pt2-.git
