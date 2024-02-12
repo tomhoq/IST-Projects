@@ -19,3 +19,6 @@
 [submodule "Tecnico-File-System-pt2-"]
 	path = Tecnico-File-System-pt2-
 	url = https://github.com/tomhoq/Tecnico-File-System-pt2-.git
+[submodule "AI-Project"]
+	path = AI-Project
+	url = https://github.com/tomhoq/AI-Project.git
