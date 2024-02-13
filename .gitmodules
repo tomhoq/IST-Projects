@@ -22,3 +22,6 @@
 [submodule "Networks-Project"]
 	path = Networks-Project
 	url = https://github.com/tomhoq/Networks-Project.git
+[submodule "Machine-Learning-HWs"]
+	path = Machine-Learning-HWs
+	url = https://github.com/tomhoq/Machine-Learning-HWs.git
